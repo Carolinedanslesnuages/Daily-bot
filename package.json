@@ -7,6 +7,7 @@
  "dependencies": {
   "discord.js": "^13.0.0-dev.fdad14099779e61cb84dcd1cb2497e0e853a6144",
   "dotenv": "^10.0.0",
+  "express": "^4.17.2",
   "node-cron": "^3.0.0"
  }
 }
