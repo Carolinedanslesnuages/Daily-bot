@@ -1,0 +1,12 @@
+{
+ "name": "dailybot",
+ "version": "1.0.0",
+ "description": "My first discord bot",
+ "main": "index.js",
+ "author": "carolinedanslesnuages",
+ "dependencies": {
+  "discord.js": "^13.0.0-dev.fdad14099779e61cb84dcd1cb2497e0e853a6144",
+  "dotenv": "^10.0.0",
+  "node-cron": "^3.0.0"
+ }
+}
