@@ -51,7 +51,7 @@ Ces tâches sont gérées par la bibliothèque **node-cron**.
 
 ## Installation 🛠️
 
-### Prérequis 
+### Prérequis 🎒
 
 Avant d’exécuter ce projet, vous devez avoir les éléments suivants installés :
 - **Node.js** : Assurez-vous d’avoir une version compatible de Node.js (v12 ou plus récent).
@@ -60,7 +60,7 @@ Avant d’exécuter ce projet, vous devez avoir les éléments suivants install�
 
 ---
 
-### Étapes d’installation
+### Étapes d’installation 
 
 1. **Clonez le dépôt :**
     ```bash
